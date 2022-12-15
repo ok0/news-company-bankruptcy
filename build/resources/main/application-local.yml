@@ -12,4 +12,4 @@ spring:
 
 telegram-api:
   host: # Put your host with token.
-  chat-id: # Put your chat-id
+  chat-id: # Put you chat-id.

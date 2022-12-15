@@ -1,7 +1,10 @@
 package kr.co.ok0.job.configuration;
 
 import kr.co.ok0.Log;
+import kr.co.ok0.client.telegram.TelegramClient;
+import kr.co.ok0.client.telegram.dto.TelegramSendMessageReqI;
 import kr.co.ok0.job.adapter.*;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.Bean;
@@ -12,9 +15,6 @@ import org.springframework.integration.jmx.config.EnableIntegrationMBeanExport;
 import org.springframework.integration.monitor.IntegrationMBeanExporter;
 import org.springframework.integration.scheduling.PollerMetadata;
 
-import java.util.function.Consumer;
-import java.util.function.Function;
-
 @Configuration
 @EnableIntegration
 @EnableIntegrationMBeanExport
@@ -23,18 +23,18 @@ public class IntegrationConfiguration implements Log {
   private final IntegrationMBeanExporter integrationMBeanExporter;
   private final ApplicationContext applicationContext;
   private final PollingProperties pollingProperties;
-//  private TelegramClient telegramClient;
+  private final TelegramClient telegramClient;
 
   public IntegrationConfiguration(
       IntegrationMBeanExporter integrationMBeanExporter,
       ApplicationContext applicationContext,
-      PollingProperties pollingProperties
-//      TelegramClient telegramClient
+      PollingProperties pollingProperties,
+      TelegramClient telegramClient
   ) {
     this.integrationMBeanExporter = integrationMBeanExporter;
     this.applicationContext = applicationContext;
     this.pollingProperties = pollingProperties;
-//    this.telegramClient = telegramClient;
+    this.telegramClient = telegramClient;
   }
 
   @Bean
@@ -65,6 +65,10 @@ public class IntegrationConfiguration implements Log {
           pollerMetadata.setTrigger(getPollingTrigger());
           o.poller(pollerMetadata);
         })
-        .handle(System.out::println).get();
+        .handle( message -> {
+          telegramClient.sendMessage(
+              new TelegramSendMessageReqI((String) message.getPayload())
+          );
+        }).get();
   }
 }
