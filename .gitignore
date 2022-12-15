@@ -125,7 +125,7 @@ fabric.properties
 *.ctxt
 
 # Mobile Tools for Java (J2ME)
-.mtj.tmp/
+.zmtj.tmp/
 
 # Package Files #
 *.jar
@@ -174,3 +174,5 @@ Temporary Items
 *.icloud
 
 # End of https://www.toptal.com/developers/gitignore/api/java,macos,intellij
+
+.gradle
