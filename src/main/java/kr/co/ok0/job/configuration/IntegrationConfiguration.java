@@ -47,7 +47,7 @@ public class IntegrationConfiguration implements Log {
     };
   }
 
-  @Bean(name = "getPollingTrigger")
+  @Bean
   public PollingTrigger getPollingTrigger() {
     return new PollingTrigger(
         pollingProperties.getPeriod(),
