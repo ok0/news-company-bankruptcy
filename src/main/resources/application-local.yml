@@ -1,0 +1,15 @@
+spring.output.ansi.enabled: ALWAYS
+
+spring:
+  jpa:
+    show-sql: false
+    properties:
+      hibernate:
+        show-sql: true
+        format_sql: true
+  application:
+    name: news-company-bankruptcy
+
+telegram-api:
+  host: # Put your host with token.
+  chat-id: # Put your chat-id
