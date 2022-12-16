@@ -44,7 +44,7 @@ public abstract class PollingChannelAdapter extends IntegrationObjectSupport imp
       }
 
       List<String> payload = getPayload(nextKeywords);
-      Log.logger.info("[receive] " + payload + "(" + pollingTrigger.isCompleted + ")");
+      getLogger().info("[receive] " + payload + "(" + pollingTrigger.isCompleted + ")");
 
       return getMessageBuilderFactory().withPayload(payload).build();
     } catch (IOException e) {

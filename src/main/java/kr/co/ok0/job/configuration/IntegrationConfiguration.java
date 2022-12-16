@@ -55,7 +55,6 @@ public class IntegrationConfiguration implements Log {
 
       @Override
       public List<String> getPayload(Set<String> keywords) {
-        // create query
         String queryKeyword = "\"" + String.join("\" \"", keywords) + "\"";
         NaverNewsReqI naverNewsReqI = new NaverNewsReqI("news", queryKeyword, "so:r,p:1d");
         Log.logger.info(queryKeyword);
