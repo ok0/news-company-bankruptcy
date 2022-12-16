@@ -56,15 +56,16 @@ public class IntegrationConfiguration implements Log {
       @Override
       public List<String> getPayload(Set<String> keywords) {
         // create query
-        String queryKeyword = "\"" + String.join("\",\"", keywords) + "\"";
+        String queryKeyword = "\"" + String.join("\" \"", keywords) + "\"";
         NaverNewsReqI naverNewsReqI = new NaverNewsReqI("news", queryKeyword, "so:r,p:1d");
+        Log.logger.info(queryKeyword);
 
         return Jsoup.parse(naverClient.getNews(naverNewsReqI))
             .body().getElementsByClass("news_tit")
             .stream()
             .filter(element -> {
+              String titleLower = element.attr("title").toLowerCase();
               for (String keyword: keywords) {
-                String titleLower = element.attr("title").toLowerCase();
                 String keywordLower = keyword.toLowerCase();
                 if (!titleLower.contains(keywordLower))
                   return false;
