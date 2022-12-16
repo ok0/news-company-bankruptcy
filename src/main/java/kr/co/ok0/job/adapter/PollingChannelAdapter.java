@@ -84,5 +84,5 @@ public abstract class PollingChannelAdapter extends IntegrationObjectSupport imp
     } else {
       return resource.get(resourceLine++);
     }
-  };
+  }
 }
