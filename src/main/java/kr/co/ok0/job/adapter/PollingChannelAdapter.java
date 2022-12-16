@@ -6,11 +6,15 @@ import org.springframework.integration.context.IntegrationObjectSupport;
 import org.springframework.integration.core.MessageSource;
 import org.springframework.messaging.Message;
 
-public abstract class PollingChannelAdapter extends IntegrationObjectSupport implements Log, MessageSource<String> {
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Set;
+
+public abstract class PollingChannelAdapter extends IntegrationObjectSupport implements Log, MessageSource<List<String>> {
   @Value("${spring.application.name}")
-  private static final String name = "";
+  private static String name;
   private final PollingTrigger pollingTrigger;
-  private Integer count = 0;
 
   public PollingChannelAdapter(PollingTrigger pollingTrigger) {
     this.pollingTrigger = pollingTrigger;
@@ -22,12 +26,24 @@ public abstract class PollingChannelAdapter extends IntegrationObjectSupport imp
   }
 
   @Override
-  public Message<String> receive() {
-    String payload = this.getPayload();
-    Log.logger.info("[receive] " + payload + "(" + count++ + ", " + this.pollingTrigger.isCompleted + ")");
+  public Message<List<String>> receive() {
+    HashSet<String> nextKeywords = getNextKeyword();
+
+    if (nextKeywords.isEmpty()) {
+      this.pollingTrigger.isCompleted = true;
+    }
     this.pollingTrigger.isCompleted = true;
+    List<String> payload = this.getPayload(getNextKeyword());
+    Log.logger.info("[receive] " + payload + "(" + this.pollingTrigger.isCompleted + ")");
+
     return this.getMessageBuilderFactory().withPayload(payload).build();
   }
 
-  public abstract String getPayload();
+  public abstract List<String> getPayload(Set<String> keywords);
+  public HashSet<String> getNextKeyword() {
+    HashSet<String> keywords = new HashSet<>();
+    keywords.add("삼성");
+    keywords.add("파산");
+    return keywords;
+  };
 }

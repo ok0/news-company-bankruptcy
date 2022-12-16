@@ -6,6 +6,9 @@ import kr.co.ok0.client.naver.dto.NaverNewsReqI;
 import kr.co.ok0.client.telegram.TelegramClient;
 import kr.co.ok0.client.telegram.dto.TelegramSendMessageReqI;
 import kr.co.ok0.job.adapter.*;
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.jsoup.select.Elements;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.Bean;
@@ -15,6 +18,13 @@ import org.springframework.integration.dsl.*;
 import org.springframework.integration.jmx.config.EnableIntegrationMBeanExport;
 import org.springframework.integration.monitor.IntegrationMBeanExporter;
 import org.springframework.integration.scheduling.PollerMetadata;
+import org.springframework.messaging.Message;
+
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Set;
+import java.util.stream.Collectors;
 
 @Configuration
 @EnableIntegration
@@ -44,8 +54,23 @@ public class IntegrationConfiguration implements Log {
   public PollingChannelAdapter getPollingChannelAdapter() {
     return new PollingChannelAdapter(getPollingTrigger()) {
       @Override
-      public String getPayload() {
-        return naverClient.getNews(new NaverNewsReqI("news", "\"삼성\"+\"파산\""));
+      public List<String> getPayload(Set<String> keywords) {
+        // create query
+        String queryKeyword = "\"" + String.join("\",\"", keywords) + "\"";
+        NaverNewsReqI naverNewsReqI = new NaverNewsReqI("news", queryKeyword, "so:r,p:1d");
+
+        // call
+        String html = naverClient.getNews(naverNewsReqI);
+
+        // parse html
+        Document document = Jsoup.parse(html);
+        Elements title = document.body().getElementsByClass("news_tit");
+
+        // return
+        return title.stream()
+            //.filter(element -> element.attr("title").contains("삼성") && element.attr("title").contains("파산"))
+            .map(element -> element.attr("href") + "\n" + element.attr("title"))
+            .collect(Collectors.toList());
       }
     };
   }
@@ -68,10 +93,12 @@ public class IntegrationConfiguration implements Log {
           pollerMetadata.setTrigger(getPollingTrigger());
           o.poller(pollerMetadata);
         })
-        .handle( message -> {
-          telegramClient.sendMessage(
-              new TelegramSendMessageReqI((String) message.getPayload())
-          );
-        }).get();
+        .handle(new Object() {
+          public void invoke(List<String> messages) {
+            String message = String.join("\n\n", messages);
+            telegramClient.sendMessage(new TelegramSendMessageReqI(message));
+          }
+        })
+        .get();
   }
 }
