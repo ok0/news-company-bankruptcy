@@ -1,10 +1,11 @@
 package kr.co.ok0.job.configuration;
 
 import kr.co.ok0.Log;
+import kr.co.ok0.client.naver.NaverClient;
+import kr.co.ok0.client.naver.dto.NaverNewsReqI;
 import kr.co.ok0.client.telegram.TelegramClient;
 import kr.co.ok0.client.telegram.dto.TelegramSendMessageReqI;
 import kr.co.ok0.job.adapter.*;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.Bean;
@@ -23,17 +24,19 @@ public class IntegrationConfiguration implements Log {
   private final IntegrationMBeanExporter integrationMBeanExporter;
   private final ApplicationContext applicationContext;
   private final PollingProperties pollingProperties;
+  private final NaverClient naverClient;
   private final TelegramClient telegramClient;
 
   public IntegrationConfiguration(
       IntegrationMBeanExporter integrationMBeanExporter,
       ApplicationContext applicationContext,
       PollingProperties pollingProperties,
-      TelegramClient telegramClient
+      NaverClient naverClient, TelegramClient telegramClient
   ) {
     this.integrationMBeanExporter = integrationMBeanExporter;
     this.applicationContext = applicationContext;
     this.pollingProperties = pollingProperties;
+    this.naverClient = naverClient;
     this.telegramClient = telegramClient;
   }
 
@@ -42,7 +45,7 @@ public class IntegrationConfiguration implements Log {
     return new PollingChannelAdapter(getPollingTrigger()) {
       @Override
       public String getPayload() {
-        return "Hello, This is Payload !";
+        return naverClient.getNews(new NaverNewsReqI("news", "\"삼성\"+\"파산\""));
       }
     };
   }

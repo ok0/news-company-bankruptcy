@@ -20,6 +20,7 @@ dependencies {
   implementation("org.springframework.boot:spring-boot-starter-integration")
   implementation("org.springframework.integration:spring-integration-jmx")
   implementation("com.fasterxml.jackson.core:jackson-annotations:2.14.1")
+  implementation("org.jsoup:jsoup:1.15.3")
 
   testImplementation("org.junit.jupiter:junit-jupiter-api:5.6.0")
   testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine")

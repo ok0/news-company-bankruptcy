@@ -14,3 +14,6 @@ spring:
 telegram-api:
   host: # Put your host with token.
   chat-id: # Put you chat-id.
+
+naver-news:
+  host: https://search.naver.com
