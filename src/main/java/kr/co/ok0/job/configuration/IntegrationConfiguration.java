@@ -57,7 +57,7 @@ public class IntegrationConfiguration implements Log {
       public List<String> getPayload(Set<String> keywords) {
         String queryKeyword = "\"" + String.join("\" \"", keywords) + "\"";
         NaverNewsReqI naverNewsReqI = new NaverNewsReqI("news", queryKeyword, "so:r,p:1d");
-        Log.logger.info(queryKeyword);
+        logger(this).info(queryKeyword);
 
         return Jsoup.parse(naverClient.getNews(naverNewsReqI))
             .body().getElementsByClass("news_tit")

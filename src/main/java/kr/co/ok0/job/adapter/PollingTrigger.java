@@ -31,7 +31,7 @@ public class PollingTrigger extends PeriodicTrigger implements Log {
   @Override
   public Date nextExecutionTime(TriggerContext triggerContext) {
     if (this.isCompleted) {
-      logger.info("Completed.");
+      logger(this).info("Completed.");
 
       new Thread(() -> {
         this.integrationMBeanExporter.stopActiveComponents(SHUTDOWN_SEC);
@@ -40,7 +40,7 @@ public class PollingTrigger extends PeriodicTrigger implements Log {
 
       return null;
     } else {
-      logger.info("Not Completed.");
+      logger(this).info("Not Completed.");
       return super.nextExecutionTime(triggerContext);
     }
   }
