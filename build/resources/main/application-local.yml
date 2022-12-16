@@ -10,6 +10,7 @@ spring:
   application:
     name: news-company-bankruptcy
 
+# Put your keys or use VM(or JVM) Option.
 telegram-api:
   host: # Put your host with token.
   chat-id: # Put you chat-id.

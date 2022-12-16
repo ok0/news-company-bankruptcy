@@ -1,7 +1,9 @@
 package kr.co.ok0.client.telegram.dto;
 
-// TODO: 2022/12/16 JsonProperty
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 public class TelegramSendMessageReqI {
+  @JsonProperty("text-text")
   private String text;
 
   public TelegramSendMessageReqI(String message) {
