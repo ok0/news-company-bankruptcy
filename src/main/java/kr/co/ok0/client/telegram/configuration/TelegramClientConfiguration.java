@@ -12,8 +12,7 @@ public class TelegramClientConfiguration {
   @Bean
   public RequestInterceptor requestInterceptor(@Value("${telegram-api.chat-id}") String chatId) {
     return template -> {
-      RequestTemplate requestTemplate = new RequestTemplate();
-      requestTemplate.query(CHAT_ID_PROPERTY_NAME, chatId);
+      template.query(CHAT_ID_PROPERTY_NAME, chatId);
     };
   }
 
