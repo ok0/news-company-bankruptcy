@@ -7,23 +7,18 @@ import kr.co.ok0.client.telegram.TelegramClient;
 import kr.co.ok0.client.telegram.dto.TelegramSendMessageReqI;
 import kr.co.ok0.job.adapter.*;
 import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-import org.jsoup.select.Elements;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.core.io.ClassPathResource;
 import org.springframework.integration.config.EnableIntegration;
 import org.springframework.integration.dsl.*;
 import org.springframework.integration.jmx.config.EnableIntegrationMBeanExport;
 import org.springframework.integration.monitor.IntegrationMBeanExporter;
 import org.springframework.integration.scheduling.PollerMetadata;
-import org.springframework.messaging.Message;
 
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 import java.util.stream.Collectors;
 
 @Configuration
@@ -54,21 +49,28 @@ public class IntegrationConfiguration implements Log {
   public PollingChannelAdapter getPollingChannelAdapter() {
     return new PollingChannelAdapter(getPollingTrigger()) {
       @Override
+      public void setClassResource() {
+        classResource = new ClassPathResource("search-keywords/bankruptcy.txt");
+      }
+
+      @Override
       public List<String> getPayload(Set<String> keywords) {
         // create query
         String queryKeyword = "\"" + String.join("\",\"", keywords) + "\"";
         NaverNewsReqI naverNewsReqI = new NaverNewsReqI("news", queryKeyword, "so:r,p:1d");
 
-        // call
-        String html = naverClient.getNews(naverNewsReqI);
-
-        // parse html
-        Document document = Jsoup.parse(html);
-        Elements title = document.body().getElementsByClass("news_tit");
-
-        // return
-        return title.stream()
-            //.filter(element -> element.attr("title").contains("삼성") && element.attr("title").contains("파산"))
+        return Jsoup.parse(naverClient.getNews(naverNewsReqI))
+            .body().getElementsByClass("news_tit")
+            .stream()
+            .filter(element -> {
+              for (String keyword: keywords) {
+                String titleLower = element.attr("title").toLowerCase();
+                String keywordLower = keyword.toLowerCase();
+                if (!titleLower.contains(keywordLower))
+                  return false;
+              }
+              return true;
+            })
             .map(element -> element.attr("href") + "\n" + element.attr("title"))
             .collect(Collectors.toList());
       }
@@ -80,8 +82,8 @@ public class IntegrationConfiguration implements Log {
     return new PollingTrigger(
         pollingProperties.getPeriod(),
         pollingProperties.getPeriodUnit(),
-        this.integrationMBeanExporter,
-        this.applicationContext
+        integrationMBeanExporter,
+        applicationContext
     );
   }
 
@@ -95,8 +97,10 @@ public class IntegrationConfiguration implements Log {
         })
         .handle(new Object() {
           public void invoke(List<String> messages) {
-            String message = String.join("\n\n", messages);
-            telegramClient.sendMessage(new TelegramSendMessageReqI(message));
+            if (!messages.isEmpty()) {
+              String message = String.join("\n\n", messages);
+              telegramClient.sendMessage(new TelegramSendMessageReqI(message));
+            }
           }
         })
         .get();
