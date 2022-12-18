@@ -6,7 +6,7 @@ import java.util.concurrent.TimeUnit;
 
 @ConfigurationProperties(prefix = "polling.trigger")
 public class PollingProperties {
-  private Long period = 2L;
+  private Long period = 1L;
   private TimeUnit periodUnit = TimeUnit.SECONDS;
 
   public void setPeriod(Long period) {
