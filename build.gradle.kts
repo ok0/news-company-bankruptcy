@@ -13,13 +13,14 @@ repositories {
 }
 
 extra["springCloudVersion"] = "2021.0.5"
-
+extra["jacksonVersion"] = "2.14.1"
 dependencies {
   implementation("org.springframework.boot:spring-boot-starter")
   implementation("org.springframework.cloud:spring-cloud-starter-openfeign")
   implementation("org.springframework.boot:spring-boot-starter-integration")
   implementation("org.springframework.integration:spring-integration-jmx")
-  implementation("com.fasterxml.jackson.core:jackson-annotations:2.14.1")
+  implementation("com.fasterxml.jackson.core:jackson-annotations:${property("jacksonVersion")}")
+  implementation("com.fasterxml.jackson.core:jackson-databind:${property("jacksonVersion")}")
   implementation("org.jsoup:jsoup:1.15.3")
 
   testImplementation("org.junit.jupiter:junit-jupiter-api:5.6.0")

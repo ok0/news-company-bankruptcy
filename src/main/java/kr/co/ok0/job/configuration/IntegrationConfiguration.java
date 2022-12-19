@@ -6,6 +6,7 @@ import kr.co.ok0.client.naver.dto.NaverNewsReqI;
 import kr.co.ok0.client.telegram.TelegramClient;
 import kr.co.ok0.client.telegram.dto.TelegramSendMessageReqI;
 import kr.co.ok0.job.adapter.*;
+import kr.co.ok0.job.adapter.dto.SearchKeywordsDto;
 import org.jsoup.Jsoup;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.ApplicationContext;
@@ -49,13 +50,13 @@ public class IntegrationConfiguration implements Log {
   public PollingChannelAdapter getPollingChannelAdapter() {
     return new PollingChannelAdapter(getPollingTrigger()) {
       @Override
-      public void setClassResource() {
-        classResource = new ClassPathResource("search-keywords/bankruptcy.txt");
+      public ClassPathResource getClassResource() {
+        return new ClassPathResource("search-keywords/bankruptcy.json");
       }
 
       @Override
-      public List<String> getPayload(Set<String> keywords) {
-        String queryKeyword = "\"" + String.join("\" \"", keywords) + "\"";
+      public List<String> getPayload(SearchKeywordsDto searchKeywordsDto) {
+        String queryKeyword = "\"" + String.join("\" \"", searchKeywordsDto.keywords) + "\"";
         NaverNewsReqI naverNewsReqI = new NaverNewsReqI("news", queryKeyword, "so:r,p:1d");
         logger(this).info(queryKeyword);
 
@@ -63,12 +64,15 @@ public class IntegrationConfiguration implements Log {
             .body().getElementsByClass("news_tit")
             .stream()
             .filter(element -> {
-              String titleLower = element.attr("title").toLowerCase();
-              for (String keyword: keywords) {
-                String keywordLower = keyword.toLowerCase();
-                if (!titleLower.contains(keywordLower))
-                  return false;
+              if (searchKeywordsDto.isMatchTitle) {
+                String titleLower = element.attr("title").toLowerCase();
+                for (String keyword : searchKeywordsDto.keywords) {
+                  String keywordLower = keyword.toLowerCase();
+                  if (!titleLower.contains(keywordLower))
+                    return false;
+                }
               }
+
               return true;
             })
             .map(element -> element.attr("href") + "\n" + element.attr("title"))

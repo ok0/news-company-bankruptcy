@@ -1,0 +1,4998 @@
+[
+  {
+    "keywords": ["삼성전자", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SK하이닉스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["NAVER", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대차", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼성SDI", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼성바이오로직스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["카카오", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["LG화학", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["기아", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대모비스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["POSCO", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["KB금융", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["LG전자", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SK이노베이션", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["셀트리온", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["신한지주", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼성물산", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SK", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼성전기", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["크래프톤", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["카카오뱅크", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["LG생활건강", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SK텔레콤", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["엔씨소프트", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["하나금융지주", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["하이브", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["KT", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["고려아연", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["LG이노텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["KT&G", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼성화재", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["LG", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국전력", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["우리금융지주", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SK스퀘어", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SK바이오사이언스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["S-Oil", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼성에스디에스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼성생명", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대한항공", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["카카오페이", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["CJ제일제당", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["포스코케미칼", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["두산중공업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대글로비스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SK아이이테크놀로지", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["LG디스플레이", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SKC", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["HMM", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["롯데케미칼", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["넷마블", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["아모레퍼시픽", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["유한양행", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["LG유플러스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한화솔루션", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국금융지주", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대건설", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대중공업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["이마트", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["기업은행", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한솔케미칼", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼성증권", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["코웨이", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["GS건설", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SK바이오팜", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대제철", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["DB하이텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["F&F", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국조선해양", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["일진머티리얼즈", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼성엔지니어링", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["DB손해보험", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["미래에셋증권", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼성전자우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대차2우B", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["BNK금융지주", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한온시스템", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대중공업지주", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["금호석유", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["만도", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["강원랜드", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["키움증권", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["KCC", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["오리온", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국가스공사", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["신세계", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국타이어앤테크놀로지", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["DL이앤씨", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한미약품", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["메리츠금융지주", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한화에어로스페이스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["두산밥캣", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["제일기획", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["두산퓨얼셀", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼성중공업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["NH투자증권", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["GS리테일", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["메리츠화재", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한전기술", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["GS", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대해상", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["호텔신라", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["메리츠증권", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["롯데정밀화학", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["씨에스윈드", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["OCI", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대위아", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["CJ대한통운", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대미포조선", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국항공우주", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["LS", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["두산", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에스원", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SK케미칼", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["펄어비스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["효성", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["LS ELECTRIC", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["효성첨단소재", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["LIG넥스원", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["DGB금융지주", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["영원무역", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한전KPS", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대백화점", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["농심", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["후성", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["엘앤에프", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["포스코인터내셔널", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["카카오게임즈", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["CJ", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대오토에버", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["휠라홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["위메이드", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["효성티앤씨", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한화시스템", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["HDC현대산업개발", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["맥쿼리인프라", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한화", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["녹십자", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에스티팜", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["하이트진로", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한미사이언스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한샘", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["BGF리테일", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["솔루스첨단소재", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["쌍용C&E", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["아모레G", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼성카드", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["천보", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["코오롱인더", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["JB금융지주", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["팬오션", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["셀트리온헬스케어", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한미반도체", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한진칼", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["LG화학우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["이노션", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대우건설", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한화생명", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["더존비즈온", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["리노공업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["코스맥스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대웅제약", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대로템", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에스디바이오센서", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["PI첨단소재", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대엘리베이", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["동서", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["JYP Ent.", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에코프로비엠", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["롯데지주", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["신세계인터내셔날", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에코프로", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["롯데관광개발", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["아프리카TV", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["효성화학", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["종근당", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["롯데칠성", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에스엠", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["동국제강", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["명신산업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["DL", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["화승엔터프라이즈", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에스엘", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대우조선해양", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한세실업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["동진쎄미켐", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SBS", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["제이콘텐트리", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["심텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["이오테크닉스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대상", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["컴투스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["오뚜기", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["와이지엔터테인먼트", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["동아쏘시오홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["테스나", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한올바이오파마", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대차우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["녹십자홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["오스템임플란트", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한섬", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["유진테크", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대덕전자", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에스에프에이", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대한유화", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["지씨셀", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["지누스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SK네트웍스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["레고켐바이오", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국단자", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["풍산", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대웅", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["덕산네오룩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["하나투어", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["아이에스동서", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["롯데쇼핑", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["스튜디오드래곤", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국콜마", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["더블유게임즈", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["코리안리", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국앤컴퍼니", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["솔브레인", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["쿠쿠홈시스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대두산인프라코어", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["하나머티리얼즈", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["LX인터내셔널", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["티와이홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대그린푸드", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["아시아나항공", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["휴켐스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["원익IPS", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["이녹스첨단소재", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["코스모신소재", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한화투자증권", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["메드팩토", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["CJ ENM", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["오스코텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["세방전지", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SK가스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["진에어", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["컴투스홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대홈쇼핑", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["다우기술", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["동원시스템즈", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["제주항공", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["경동나비엔", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["NHN", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["NHN", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["GKL", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["엔켐", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["영풍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["파크시스템스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["알테오젠", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼강엠앤티", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SNT모티브", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["KCC글라스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SK디스커버리", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["오리온홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["동원F&B", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["해성디에스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["유니드", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["피에스케이", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["동아에스티", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["파마리서치", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["상아프론테크", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["부광약품", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["메가스터디교육", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["롯데정보통신", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["보령제약", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한일시멘트", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대신증권", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["LX세미콘", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["일진하이솔루스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼양홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["휴젤", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["원익QnC", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼성화재우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대일렉트릭", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SK렌터카", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["HDC", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["티씨케이", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["KG동부제철", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["덴티움", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["풀무원", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["넥센타이어", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["태광산업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["솔루엠", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["동양생명", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["메지온", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["롯데리츠", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["네패스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["셀트리온", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["영진약품", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["케이씨텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대건설기계", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["코리아써키트", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["NHN한국사이버결제", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["코오롱글로벌", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SK디앤디", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대한해운", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["LG전자우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["서진시스템", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["신세계푸드", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["엠씨넥스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["CJ CGV", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["종근당홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["ESR켄달스퀘어리츠", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["금호타이어", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["서흥", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["하나마이크론", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["나노신소재", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한라홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["원익머트리얼즈", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["케이카", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["서울옥션", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["이수페타시스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["LX하우시스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["클래시스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["인트론바이오", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["올릭스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["파미셀", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["신세계 I&C", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["인텍플러스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["유한양행", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼양사", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["엔케이맥스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["미래에셋생명", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국토지신탁", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에이비엘바이오", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["테이팩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["비에이치", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["인터로조", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["셀트리온제약", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["롯데렌탈", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["동원산업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["주성엔지니어링", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대주전자재료", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["LX홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["영원무역홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["콜마비앤에이치", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["유안타증권", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["쿠쿠홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["효성중공업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼화콘덴서", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["롯데제과", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["빙그레", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국카본", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["씨젠", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["테스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["DL건설", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["디어유", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["드림텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["환인제약", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["엘비세미콘", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["매일유업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["RFHIC", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼양식품", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["국도화학", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["동국제약", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["아세아시멘트", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["젬백스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["송원산업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한독", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["NICE평가정보", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SK리츠", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["금호석유우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["롯데푸드", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["파트론", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["유나이티드제약", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["KH바텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["LF", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["티앤알바이오팹", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["아모텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한진", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["아세아제지", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["NICE", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["파라다이스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["락앤락", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한솔제지", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["테크윙", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["롯데하이마트", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SPC삼립", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["제이알글로벌리츠", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["동화기업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["큐리언트", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["아미코젠", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["자화전자", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["압타바이오", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SGC에너지", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["제이시스메디칼", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["키다리스튜디오", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["신흥에스이씨", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["애경산업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["세아베스틸", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["마크로젠", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["미래에셋증권2우B", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["유니셈", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["코나아이", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["HSD엔진", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한화3우B", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["파인테크닉스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["스카이라이프", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["더네이쳐홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["데브시스터즈", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["케이씨", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["동부건설", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["제넥신", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["금호건설", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["크리스에프앤씨", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["CJ제일제당 우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼익THK", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["노바렉스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["티에스이", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["고영", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["농심홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["HK이노엔", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["태광", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["서울반도체", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["레이", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["JW중외제약", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["피에이치에이", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["네오이뮨텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국콜마홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["아이센스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["비나텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["세아제강지주", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["와이지-원", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["태영건설", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["원티드랩", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["세아제강", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["F&F홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["아이마켓코리아", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["이수화학", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대한제강", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["일양약품", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["아모레퍼시픽우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["쿠콘", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["코미코", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["모두투어", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["E1", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["인텔리안테크", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국철강", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["와이엠티", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["디티알오토모티브", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["멕아이씨에스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["지역난방공사", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["신도리코", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["CJ프레시웨이", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["디앤씨미디어", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼천리", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SFA반도체", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["하이록코리아", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["율촌화학", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["애경케미칼", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["웹젠", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["네패스아크", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["조이시티", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["청담러닝", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["화승인더", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["화신", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["윈스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["LG생활건강우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["세방", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼영전자", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["이오플로우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["골프존", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼진제약", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["이녹스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에이치엘비", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["일동제약", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["케이엠더블유", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["월덱스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["HB솔루션", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대차3우B", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["DI동일", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["휴온스글로벌", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["성광벤드", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["휴온스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SIMPAC", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대코퍼레이션", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["동성케미컬", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["진원생명과학", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["남해화학", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["메디톡스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["KG이니시스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["일신방직", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["덕산테코피아", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에스앤에스텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국자산신탁", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대성홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["인탑스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼천당제약", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에이스테크", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["와이솔", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["디오", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["도화엔지니어링", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["아이원스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["카페24", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대상홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["KEC", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SBS콘텐츠허브", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["미원에스씨", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["디피씨", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한일현대시멘트", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["DL이앤씨우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["코스맥스비티아이", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대양전기공업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["신성통상", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["NEW", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한일홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼양패키징", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["세진중공업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["사람인에이치알", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼영무역", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["HDC랩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["엠로", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["세종공업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["KPX케미칼", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["교보증권", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["씨에스베어링", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한미글로벌", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["아모그린텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["서부T&D", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에이피티씨", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["풍산홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["네오위즈홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["노루페인트", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["포스코강판", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["클리오", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["벽산", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["제이에스코퍼레이션", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["리파인", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["CJ4우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["계룡건설", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["이연제약", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한화손해보험", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["신대양제지", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["일진다이아", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["진성티이씨", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한신공영", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대에너지솔루션", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["자이언트스텝무상", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["인터플렉스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["하나마이크론무상", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["금강공업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["선진", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한미약품", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["신영증권", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["코텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["종근당", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["동성화인텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대차증권", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["아난티", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["랩지노믹스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SNT홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대리바트", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["피엔티", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["아이티엠반도체", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["미원상사", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["무림P&P", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["아톤", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["디바이스이엔지", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["태경케미컬", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["아세아", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["신풍제약", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["효성ITX", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["펩트론", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["GST", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대원제약", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에스제이그룹", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에코프로에이치엔", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼화전기", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["자이언트스텝", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["코오롱", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["성신양회", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에코마케팅", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["KSS해운", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["조이시티무상", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대덕", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["신라교역", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["영풍정밀", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["고려제강", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["다날", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["인선이엔티", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국쉘석유", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["바이오니아", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["호전실업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["BGF", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["넥스틴", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["피엔에이치테크무상", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국공항", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["서울가스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["피엔에이치테크", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["다나와", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["유니퀘스트", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["엔에스쇼핑", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["이노와이어리스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["다원시스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["NHN한국사이버결제배당", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대보마그네틱", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대한전선", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["KG케미칼", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["팜스코", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["안랩", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["솔브레인홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["앱클론", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["태경비케이", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["와이더플래닛", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["사조대림", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한컴MDS", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대동", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["아모레G우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["아주스틸", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["제이씨케미칼", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["광동제약", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["자이에스앤디", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼양통상", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["유진투자증권", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["ISC", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["하나제약", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["액트로", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["경인양행", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["핌스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대한제분", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["케이아이엔엑스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["롯데손해보험", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["제이스텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["제일약품", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["하림지주", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["다우데이타", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["골프존뉴딘홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["KTB투자증권", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["샘표식품", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["피에스케이홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["오로라", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["휴비스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["광주신세계", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한세예스24홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["태경산업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["위지윅스튜디오", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["코웰패션", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["신성이엔지", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대한약품", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["동아지질", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["디와이파워", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["티앤엘", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한미사이언스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["금화피에스시", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["AK홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["비츠로셀", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["백광산업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["태림포장", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["두산우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["예스코홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대한제당", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["리메드", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼성출판사", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["로체시스템즈", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["비덴트", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["네이처셀", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["강남제비스코", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["동화약품", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["코윈테크", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["툴젠", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["코오롱플라스틱", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["차바이오텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한솔로지스틱스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["세이브존I&C", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["모토닉", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["KPX홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한글과컴퓨터", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["디와이", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한솔테크닉스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["잇츠한불", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["인지컨트롤스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["유바이오로직스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["원익홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["싸이맥스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["코아시아", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한진중공업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["셀트리온헬스케어배당", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["뉴트리", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대비앤지스틸", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["농우바이오", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국금융지주우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼일씨엔에스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SK증권", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["코스모화학", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["웅진씽크빅", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["해성산업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["디아이", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["티케이케미칼", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["휴니드", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에이비온", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["이엔에프테크놀로지", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["YG PLUS", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["나스미디어", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["조선내화", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["LG헬로비전", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["TCC스틸", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["아이씨디", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["남양유업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["S-Oil우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["유틸렉스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["우리종금", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["오이솔루션", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["레드캡투어", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["동양", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["덕산하이메탈", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대창단조", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대퓨처넷", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["신한알파리츠", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국알콜", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["레이언스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["하이트진로홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한양이엔지", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["이엔드디", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["이리츠코크렙", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대교", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["DL우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대신증권우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["유비케어", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["경농", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼호개발", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["씨앤씨인터내셔널", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["초록뱀미디어", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["쎄트렉아이", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에코프로배당", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SNT중공업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["AJ네트웍스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["경방", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["엘앤씨바이오", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["알루코", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["엘오티베큠", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에이치엘비생명과학", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["신세계건설", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["바이젠셀", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["세아홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["퍼시스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["화천기공", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["셀리버리", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["신영와코루", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["슈피겐코리아", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에이스토리", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["아모레G3우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["세원정공", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["경보제약", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["KC그린홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["도이치모터스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["유비쿼스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에이프로젠제약", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["가온미디어", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["진양홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["프레스티지바이오파마", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국비엔씨", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["우주일렉트로", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["남선알미늄", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["IHQ", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["HDC현대EP", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["넥스트사이언스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼성전기우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에이프로젠 MED", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대바이오", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["일진홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["맥스트", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에프에스티", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["코엔텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["나이스정보통신", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["이건산업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼익악기", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["동아타이어", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["경동도시가스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["동원개발", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["메디포스트", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["성우하이텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["바텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["옵트론텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["딥노이드", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["넥센", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["티웨이항공", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["조광피혁", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["헬릭스미스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대약품", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["씨아이에스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["NH투자증권우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["제일파마홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["AP시스템", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대건설우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한전산업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SK이노베이션우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["네오위즈", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["오비고", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["큐라클", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["KISCO홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["NPC", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["이엠텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국기업평가", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대원강업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["LS전선아시아", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["코람코에너지리츠", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["교촌에프앤비", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["신원", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["웹케시", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대림B&Co", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["휴비츠", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["지노믹트리", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["라온피플", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대성에너지", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["종근당바이오", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["디아이씨", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["케이엔더블유", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SK케미칼우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["무학", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["CS홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["DB", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["엔지켐생명과학", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["제이브이엠", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["알체라", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["화성산업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["와이엔텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["퀀타매트릭스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["일성신약", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["KH 필룩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["일신석재", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["해태제과식품", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에어부산", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["이월드", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에스씨엠생명과학", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["STX엔진", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["미원홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대영포장", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["유니테스트", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["일성건설", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한솔홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["백산", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["바이넥스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["코오롱인더우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["계양전기", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["이베스트투자증권", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["파수", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대현", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["박셀바이오", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["카프로", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["지놈앤컴퍼니", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["진흥기업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["모나리자", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에이블씨엔씨", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["포스코 ICT", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["사조산업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["서원인텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["TYM", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["유진기업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["GS글로벌", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["텔코웨어", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["슈프리마", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["CMG제약", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["브릿지바이오테라퓨틱스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼부토건", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["우리기술투자", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼성제약", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한농화성", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한라", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["덱스터", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["동운아나텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대한광통신", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["동일산업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대원산업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["오로스테크놀로지", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["상신이디피", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["센트랄모텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에이치피오", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["톱텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["오션브릿지", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["아시아나IDT", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["극동유화", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["용평리조트", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["휴온스배당", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["금호에이치티", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["신성델타테크", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SNT에너지", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["디씨엠", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["태평양물산", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼보판지", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국주철관", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["국제약품", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["유니온머티리얼", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["인크로스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["KCTC", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["DB금융투자", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["셀트리온제약배당", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에프엔에스테크", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼화페인트", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대아티아이", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["하이비젼시스템", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대창", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["코스맥스엔비티", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["LG우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["디엔에프", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["동양철관", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["레이크머티리얼즈", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["명문제약", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["지투알", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["나무가", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["흥아해운", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["우리산업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["BYC", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["광전자", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["그린플러스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["그린케미칼", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["아남전자", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["인스코비", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["보락", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["다스코", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["수산중공업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한솔홈데코", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에이플러스에셋", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["두올", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["비엠티", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["흥국화재", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼일제약", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국화장품", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["비나텍배당", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["레인보우로보틱스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["금양", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["동성제약", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["신일전자", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["노루홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["유수홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["사조동아원", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["지엔씨에너지", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대원", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["솔루스첨단소재1우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대우부품", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["지어소프트", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["넷게임즈", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["크라운해태홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["크라운제과", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["네오팜", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["다산네트웍스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["태웅로직스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼성SDI우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["황금에스티", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SG세계물산", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["화승코퍼레이션", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["남광토건", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["인터로조배당", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["야스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["동방", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대구백화점", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에스에이엠티", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["원준", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["상신브레이크", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["KMH", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["국일제지", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["덕성", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["우진", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한일홀딩스배당", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["선익시스템", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["LS네트웍스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["크리스탈지노믹스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["칩스앤미디어", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한창제지", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["엠투엔", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["국동", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["화천기계", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["일동홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에넥스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["써니전자", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["CJ씨푸드", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["셀리드", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["멀티캠퍼스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국특강", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["부산산업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["민앤지", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["덴티스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["조비", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["지니뮤직", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한컴라이프케어", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["코미팜", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["아주IB투자", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한독크린텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["휴온스글로벌배당", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["유니온", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["넵튠", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["이아이디", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["알서포트", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["JW중외제약", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국내화", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["메디톡스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한빛소프트", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["화승알앤에이", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["제우스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["뷰웍스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["CJ우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["코스메카코리아", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["조선선재", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["유니슨", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["인터파크", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["APS홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["서연", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SH에너지화학", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["와이아이케이", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["비상교육", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["광명전기", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["어보브반도체", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["엠게임", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대성산업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["비트컴퓨터", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["부국증권", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["샘표", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["쌍방울", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["연우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["일진전기", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼아알미늄", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["상상인", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["와이엠씨", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["이랜텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대호에이엘", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["디앤디플랫폼리츠", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["무림페이퍼", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["KG모빌리언스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["KC코트렐", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["위닉스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["서울바이오시스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대한방직", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["까뮤이앤씨", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["KTcs", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["팜젠사이언스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["범양건영", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["나스미디어배당", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대유에이텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국석유", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["클리노믹스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["이스트소프트", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["인바디", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["조일알미늄", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["와이투솔루션", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대원전선", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국화장품제조", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["유유제약", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대양금속", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["기신정기", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["깨끗한나라", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["디아이동일배당", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["제주은행", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["메가스터디", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["덕양산업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["형지엘리트", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["유니켐", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["지엠비코리아", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["세아특수강", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["동남합성", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["유화증권", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["미창석유", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["이구산업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["인팩", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["핸즈코퍼레이션", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["NI스틸", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["윌비스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["LX하우시스우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한진중공업홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대코퍼레이션홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["STX중공업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["옵티팜", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["서한", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["새론오토모티브", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["퍼스텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["진양산업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["콤텍시스템", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["코리아센터", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼표시멘트", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["NH올원리츠", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["DSR", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["시디즈", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["토니모리", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["부국철강", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["경동인베스트", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["STX", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["인천도시가스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SG글로벌", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["KG ETS", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼성물산우B", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["DRB동일", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["헬릭스미스무상", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["이엔플러스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["서희건설", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["보해양조", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["서연이화", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["나노스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["인디에프", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["동양피스톤", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["영화금속", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["GS우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["아바코", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대화제약", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["엠케이전자", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["동일고무벨트", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["우성", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["신한서부티엔디리츠", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에이티넘인베스트", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["사조씨푸드", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["화인베스틸", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["일진디스플", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["서부T&D배당", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["DSR제강", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["KTis", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["플레이그램", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["문배철강", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["혜인", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["NH프라임리츠", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["유엔젤", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["제이앤티씨", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["진양화학", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["디와이피엔에프", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국정보인증", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["주연테크", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에스티아이", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한양증권", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["상상인증권", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SK우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["세하", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["인바이오젠", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["미원화학", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["참엔지니어링", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["영풍제지", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한신기계", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["DMS", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["코윈테크배당", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에스피지", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["세원이앤씨", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["방림", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대유플러스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["성창기업지주", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼지전자", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대신증권2우B", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["JW생명과학", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["경동제약", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["조광페인트", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["바디텍메드", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["이지스밸류리츠", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국전자인증", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대원화성", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["크린앤사이언스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["미래산업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["국보", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["웰바이오텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["이지스레지던스리츠", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼성공조", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대한화섬", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["신라젠", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["평화산업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["맘스터치", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["웅진", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["큐로", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["미래에셋글로벌리츠", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["롯데칠성우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["이스타코", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["휴메딕스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["조흥", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["우리들휴브레인", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["오리엔트바이오", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["서원", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["티웨이홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["제이준코스메틱", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["휴스틸", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["엠에스오토텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["아센디오", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["신흥", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼원강재", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["비케이탑스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["영흥", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["JW홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["케이비아이동국실업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에쓰씨엔지니어링", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대교우B", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["이지홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국수출포장", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["서울식품", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["토니모리유상", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["남성", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국전자금융", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["가온미디어배당", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["오텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["가온전선", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에이텍", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["인터지스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에이디테크놀로지", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["아나패스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼영화학", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한세엠케이", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["마니커", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["MH에탄올", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["케어젠", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["진도", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["에스엠코어", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["신영증권우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국전자홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["티웨이홀딩스유상", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["경인전자", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["우신시스템", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["갤럭시아에스엠", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["씨아이테크", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["넥센타이어1우B", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["엘브이엠씨홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["티에이치엔", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["태원물산", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["LX홀딩스1우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["대동전자", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["신풍제지", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SHD", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["삼화전자", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한익스프레스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["우진플라임", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["영보화학", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["신송홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["성문전자", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["동방아그로", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["동원수산", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["금호전기", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["성보화학", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["비비안", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["유성기업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["모나미", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한솔PNS", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["사조오양", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["체시스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국프랜지", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["엔케이", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한국종합기술", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["미래아이앤지", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["메타랩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["평화홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["KR모터스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["고려산업", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한창", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["한일철강", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["하이스틸", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["선도전기", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["코아스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["WISCOM", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["동일제강", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["TBH글로벌", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["태양금속", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["페이퍼코리아", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["해성산업1우", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["현대바이오랜드", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["제이더블유홀딩스무상", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["SBS미디어홀딩스", "파산"],
+    "match_title": true
+  },
+  {
+    "keywords": ["MTRON", "파산"],
+    "match_title": true
+  }
+]
