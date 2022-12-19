@@ -58,7 +58,7 @@ public class IntegrationConfiguration implements Log {
       @Override
       public SearchKeywordsDto getNextKeyword() throws IOException {
         SearchKeywordsDto searchKeywordsDto = super.getNextKeyword();
-        if (resourceLine >= 100) {
+        if (resourceLine >= 300) {
           searchKeywordsDto.isMatchTitle = false;
         }
 
