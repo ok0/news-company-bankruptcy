@@ -2,13 +2,13 @@ package kr.co.ok0.client.naver.dto;
 
 public class NaverNewsReqI {
   private String where;
-  private String query;
   private String nso;
+  private String query;
 
-  public NaverNewsReqI(String where, String query, String nso) {
+  public NaverNewsReqI(String where, String nso, String query) {
     this.where = where;
-    this.query = query;
     this.nso = nso;
+    this.query = query;
   }
 
   public void setWhere(String where) {

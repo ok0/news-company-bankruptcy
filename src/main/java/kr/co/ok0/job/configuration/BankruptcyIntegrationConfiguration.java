@@ -2,6 +2,7 @@ package kr.co.ok0.job.configuration;
 
 import kr.co.ok0.Log;
 import kr.co.ok0.client.naver.NaverClient;
+import kr.co.ok0.client.naver.dto.NaverNewsConstants;
 import kr.co.ok0.client.naver.dto.NaverNewsReqI;
 import kr.co.ok0.client.telegram.TelegramClient;
 import kr.co.ok0.client.telegram.dto.TelegramSendMessageReqI;
@@ -27,14 +28,14 @@ import java.util.stream.Collectors;
 @EnableIntegration
 @EnableIntegrationMBeanExport
 @EnableConfigurationProperties(PollingProperties.class)
-public class IntegrationConfiguration implements Log {
+public class BankruptcyIntegrationConfiguration implements Log {
   private final IntegrationMBeanExporter integrationMBeanExporter;
   private final ApplicationContext applicationContext;
   private final PollingProperties pollingProperties;
   private final NaverClient naverClient;
   private final TelegramClient telegramClient;
 
-  public IntegrationConfiguration(
+  public BankruptcyIntegrationConfiguration(
       IntegrationMBeanExporter integrationMBeanExporter,
       ApplicationContext applicationContext,
       PollingProperties pollingProperties,
@@ -58,7 +59,7 @@ public class IntegrationConfiguration implements Log {
       @Override
       public SearchKeywordsDto getNextKeyword() throws IOException {
         SearchKeywordsDto searchKeywordsDto = super.getNextKeyword();
-        if (resourceLine >= 300) {
+        if (resourceLine >= 500) {
           searchKeywordsDto.isMatchTitle = false;
         }
 
@@ -67,15 +68,18 @@ public class IntegrationConfiguration implements Log {
 
       @Override
       public List<String> getPayload(SearchKeywordsDto searchKeywordsDto) {
-        String queryKeyword = "\"" + String.join("\" \"", searchKeywordsDto.keywords) + "\"";
-        NaverNewsReqI naverNewsReqI = new NaverNewsReqI("news", queryKeyword, "so:r,p:1d");
+        NaverNewsReqI naverNewsReqI = new NaverNewsReqI(
+            NaverNewsConstants.REQUEST_PARAMETER_WHERE,
+            NaverNewsConstants.REQUEST_PARAMETER_NSO,
+            "\"" + String.join("\" \"", searchKeywordsDto.keywords) + "\""
+        );
 
         return Jsoup.parse(naverClient.getNews(naverNewsReqI))
             .body().getElementsByClass("news_tit")
             .stream()
             .filter(element -> {
+              String titleLower = element.attr("title").toLowerCase();
               if (searchKeywordsDto.isMatchTitle) {
-                String titleLower = element.attr("title").toLowerCase();
                 for (String keyword : searchKeywordsDto.keywords) {
                   String keywordLower = keyword.toLowerCase();
                   if (!titleLower.contains(keywordLower))
