@@ -19,6 +19,7 @@ import org.springframework.integration.jmx.config.EnableIntegrationMBeanExport;
 import org.springframework.integration.monitor.IntegrationMBeanExporter;
 import org.springframework.integration.scheduling.PollerMetadata;
 
+import java.io.IOException;
 import java.util.*;
 import java.util.stream.Collectors;
 
@@ -55,10 +56,19 @@ public class IntegrationConfiguration implements Log {
       }
 
       @Override
+      public SearchKeywordsDto getNextKeyword() throws IOException {
+        SearchKeywordsDto searchKeywordsDto = super.getNextKeyword();
+        if (resourceLine >= 100) {
+          searchKeywordsDto.isMatchTitle = false;
+        }
+
+        return searchKeywordsDto;
+      }
+
+      @Override
       public List<String> getPayload(SearchKeywordsDto searchKeywordsDto) {
         String queryKeyword = "\"" + String.join("\" \"", searchKeywordsDto.keywords) + "\"";
         NaverNewsReqI naverNewsReqI = new NaverNewsReqI("news", queryKeyword, "so:r,p:1d");
-        logger(this).info(queryKeyword);
 
         return Jsoup.parse(naverClient.getNews(naverNewsReqI))
             .body().getElementsByClass("news_tit")

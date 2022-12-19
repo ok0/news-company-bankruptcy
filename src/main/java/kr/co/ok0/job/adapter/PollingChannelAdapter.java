@@ -20,9 +20,8 @@ public abstract class PollingChannelAdapter extends IntegrationObjectSupport imp
   private static String name;
   private final PollingTrigger pollingTrigger;
 
-  public ClassPathResource classResource = null;
   private List<SearchKeywordsDto> resource;
-  private Integer resourceLine = 0;
+  public Integer resourceLine = 0;
 
   public PollingChannelAdapter(PollingTrigger pollingTrigger) {
     this.pollingTrigger = pollingTrigger;
@@ -42,7 +41,11 @@ public abstract class PollingChannelAdapter extends IntegrationObjectSupport imp
       }
 
       List<String> payload = getPayload(nextKeywords);
-      logger(this).info("[receive] " + payload + "(" + resourceLine + "," + pollingTrigger.isCompleted + ")");
+      SearchKeywordsDto searchKeywordsDto = getCurrentKeyword();
+      logger(this).info(
+          "[receive] " + payload + "(" + resourceLine + "," + pollingTrigger.isCompleted + ")\n" +
+              "[Search keyword] " + searchKeywordsDto.keywords.toString() + ", " + searchKeywordsDto.isMatchTitle
+      );
 
       return getMessageBuilderFactory().withPayload(payload).build();
     } catch (IOException e) {
@@ -55,6 +58,9 @@ public abstract class PollingChannelAdapter extends IntegrationObjectSupport imp
   public abstract List<String> getPayload(SearchKeywordsDto keywords);
   public abstract ClassPathResource getClassResource();
 
+  public SearchKeywordsDto getCurrentKeyword() {
+    return resource.get(resourceLine);
+  }
   public SearchKeywordsDto getNextKeyword() throws IOException {
     if (resource == null) {
       resourceLine = 0;
