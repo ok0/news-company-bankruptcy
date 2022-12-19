@@ -68,13 +68,14 @@ public class BankruptcyIntegrationConfiguration implements Log {
 
       @Override
       public List<String> getPayload(SearchKeywordsDto searchKeywordsDto) {
+        String query = "\"" + String.join("\" \"", searchKeywordsDto.keywords) + "\"";
         NaverNewsReqI naverNewsReqI = new NaverNewsReqI(
             NaverNewsConstants.REQUEST_PARAMETER_WHERE,
             NaverNewsConstants.REQUEST_PARAMETER_NSO,
-            "\"" + String.join("\" \"", searchKeywordsDto.keywords) + "\""
+            query
         );
 
-        return Jsoup.parse(naverClient.getNews(naverNewsReqI))
+        List<String> payload = Jsoup.parse(naverClient.getNews(naverNewsReqI))
             .body().getElementsByClass("news_tit")
             .stream()
             .filter(element -> {
@@ -91,6 +92,12 @@ public class BankruptcyIntegrationConfiguration implements Log {
             })
             .map(element -> element.attr("href") + "\n" + element.attr("title"))
             .collect(Collectors.toList());
+
+        if (!payload.isEmpty()) {
+          payload.add(0, query);
+        }
+
+        return payload;
       }
     };
   }
