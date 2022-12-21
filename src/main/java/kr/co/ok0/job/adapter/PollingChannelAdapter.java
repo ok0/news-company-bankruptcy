@@ -70,7 +70,7 @@ public abstract class PollingChannelAdapter extends IntegrationObjectSupport imp
       resource = Arrays.stream(jackson2JsonObjectMapper.fromJson(Files.readString(path), SearchKeywordsDto[].class)).toList();
     }
 
-    if (resourceLine > resource.size() -1) {
+    if (resourceLine >= resource.size() -1) {
       resource = null;
       return new SearchKeywordsDto();
     } else {
